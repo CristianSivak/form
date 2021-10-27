@@ -8,7 +8,8 @@ header {
     background-color: rgb(68, 221, 170);
     width: 20%;
     flex-direction: row;
-    padding: 0px 3px 9px 13px;
+    padding: 0px 3px 9px 13px;    
+    padding-bottom: 119px;
 }
 main{
     width: 50%;
