@@ -1,0 +1,107 @@
+body{
+    display: flex;
+    padding: 70px 70px 70px 80px;
+}
+
+header {
+    color: white;
+    background-color: rgb(68, 221, 170);
+    width: 20%;
+    flex-direction: row;
+    padding: 0px 3px 9px 13px;
+}
+main{
+    width: 50%;
+    flex-direction: row;
+}
+label{
+    width: 100%;
+}
+input{
+    width:50%;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: rgb(119, 118, 118);
+    text-align: left;
+  }
+h1{
+    padding: 35px 10px 12px 26px;
+}
+.lastname{
+    width: 50%;
+    padding: 25px 10px 30px 30px;
+}
+.lastname-input{
+    padding: 51px 12px 14px 174px;
+}
+.email{
+    width: 50%;
+    padding: 25px 10px 30px 30px;
+}
+.email-input{
+    padding: 51px 12px 14px 174px;
+}
+.father-row{
+    display: flex;
+}
+.child-row{
+    flex-direction: row;
+}
+.father-column{
+    display: flex;
+    flex-direction: column
+}
+.child-column{
+    flex-direction: column;
+}
+.button {
+    width: 20%;
+    background-color:  rgb(68, 221, 170);
+    border: none;
+    color: white;
+    padding: 15px 32px 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    margin-left: 25px;
+  }
+p{
+    padding: 13px 10px 10px 10px;
+}
+
+.img-home{
+    width: 20%;
+    height: 40px;
+    padding-top: 25px
+}
+.img-phone{
+    width: 14%;
+    height: 30px;
+    padding-top: 25px
+}
+.img-email{
+    width: 15%;
+    height: 36px;
+    padding-top: 25px
+}
+.img-site{
+    width: 14%;
+    height: 36px;
+    padding-top: 25px
+}
+.subject-message{
+    padding: 10px 10px 12px 28px
+}
+
+.message-input{
+    padding: 51px 12px 14px 350px !important;
+}
+.subject-input {
+    padding: 51px 12px 14px 350px !important;
+}
