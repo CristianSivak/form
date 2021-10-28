@@ -9,7 +9,8 @@ header {
     background-color: rgb(68, 221, 170);
     width: 20%;
     flex-direction: row;
-    padding: 0px 3px 9px 13px;
+    padding: 0px 3px 9px 13px;    
+    padding-bottom: 119px;
 }
 main{
     width: 50%;
@@ -104,5 +105,10 @@ p{
     padding: 51px 12px 14px 316px !important;
 }
 .subject-input {
+<<<<<<< HEAD
     padding: 51px 12px 14px 316px !important;
 }
+=======
+    padding: 51px 12px 14px 350px !important;
+}
+>>>>>>> 9497e7bc46136a0c0f4434d96f7fe1043ef1b49a
