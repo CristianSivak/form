@@ -1,6 +1,7 @@
 body{
     display: flex;
     padding: 70px 70px 70px 80px;
+    font-family: Arial, sans-serif;
 }
 
 header {
