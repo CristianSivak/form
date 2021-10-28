@@ -1,6 +1,7 @@
 body{
     display: flex;
     padding: 70px 70px 70px 80px;
+    font-family: Arial, sans-serif;
 }
 
 header {
@@ -36,7 +37,7 @@ h1{
     padding: 25px 10px 30px 30px;
 }
 .lastname-input{
-    padding: 51px 12px 14px 174px;
+    padding: 51px 12px 14px 130px;
 }
 .email{
     width: 50%;
@@ -63,7 +64,7 @@ h1{
     background-color:  rgb(68, 221, 170);
     border: none;
     color: white;
-    padding: 15px 32px 15px 20px;
+    padding: 15px 32px 15px 1px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -100,8 +101,8 @@ p{
 }
 
 .message-input{
-    padding: 51px 12px 14px 350px !important;
+    padding: 51px 12px 14px 316px !important;
 }
 .subject-input {
-    padding: 51px 12px 14px 350px !important;
+    padding: 51px 12px 14px 316px !important;
 }
